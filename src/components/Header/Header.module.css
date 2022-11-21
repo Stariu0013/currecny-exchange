@@ -1,0 +1,13 @@
+.currencyBlock {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+    background: linear-gradient(135deg, rgba(255,146,146,1) 0%, rgba(254,67,67,1) 100%);
+
+    color: white;
+    font-size: 24px;
+
+    border-top-left-radius: 10px;
+}
